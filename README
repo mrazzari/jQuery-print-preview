@@ -1,0 +1,17 @@
+Problem:
+
+http://www.info-arch.org/lists/sigia-l/0310/0167.html
+
+Fix:
+
+This plugin style-switches for a second to CSS print view, while the Print 
+dialog appears. Then goes back to the screen-media CSS.
+
+GOOD:
+* The user gets a preview without asking
+* No extra steps in the proccess
+
+BAD:
+* My mother might be puzzled by such a huge screen redraw. 
+
+
